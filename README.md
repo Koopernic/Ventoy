@@ -1,2 +1,2 @@
 # Ventoy
-Ventoy template
+Ventoy Multi-boot USB config.
