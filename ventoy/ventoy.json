@@ -1,0 +1,54 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "0" },
+        { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/iso" }
+    ],
+
+
+    "theme": {
+        "file": "/ventoy/Vimix/theme.txt",
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI",
+        "ventoy_left": "5%",
+        "ventoy_top": "95%",
+        "ventoy_color": "#ffffff",
+        "fonts": [
+            "/ventoy/Vimix/dejavu_sans_12.pf2",
+            "/ventoy/Vimix/dejavu_sans_14.pf2",
+            "/ventoy/Vimix/dejavu_sans_16.pf2"
+            ]
+    },
+
+
+    "menu_alias" : [
+        {
+            "image": "/iso/CentOS.iso",
+            "alias": "CentOS 8.2"
+        },
+        {
+            "image": "/iso/clonezilla.iso",
+            "alias": "CloneZilla Live 2.6.6"
+        },        
+        {
+            "image": "/iso/Debian.iso",
+            "alias": "Debian 10.4"
+        },
+        {
+            "image": "/iso/kali.iso",
+            "alias": "Kali Linux 2020.2"
+        },
+        {
+            "image": "/iso/Ubuntu.iso",
+            "alias": "Ubuntu 20.04"
+        },
+        {
+            "image": "/iso/caine11.0.iso",
+            "alias": "Caine 11 - Forensic ISO"
+        },
+        {
+            "image": "/iso/santoku_0.5.iso",
+            "alias": "Santoku 0.5 - Cellphone Forensic ISO"
+        }                     
+    ]
+}
