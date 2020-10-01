@@ -27,10 +27,6 @@
             "alias": "CentOS 8.2"
         },
         {
-            "image": "/iso/clonezilla.iso",
-            "alias": "CloneZilla Live 2.6.6"
-        },        
-        {
             "image": "/iso/Debian.iso",
             "alias": "Debian 10.4"
         },
